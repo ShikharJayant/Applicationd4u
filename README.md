@@ -1,4 +1,4 @@
-**Screen Shots of the assessment.**
+**Screenshots of the assessment.**
 
 ![Image 1](https://github.com/user-attachments/assets/9b4c494a-bb64-405c-9e11-5ba025fa1a8e)
 
